@@ -1,0 +1,72 @@
+
+.unique-login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('https://img.freepik.com/free-photo/smiley-female-volunteer-holding-donations-box-with-food_23-2148732648.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.unique-form {
+  background-color: rgba(249, 255, 142, 0.9);
+  display: block;
+  padding: 2rem;
+  max-width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Rest of your CSS remains the same */
+
+
+.unique-form-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+.unique-input-container {
+  margin-bottom: 1rem;
+}
+
+.unique-input-container input {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  font-size: 1rem;
+}
+
+.unique-submit-button {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  background-color: #a69b5b;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.unique-signup-link {
+  font-size: 0.875rem;
+  text-align: center;
+  margin-top: 1rem;
+  color: #666;
+}
+
+.unique-signup-link a {
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: bold;
+}
